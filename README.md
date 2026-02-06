@@ -5,7 +5,7 @@
 
 **This Will Drive You From Complete Basics to Advanced Git Usage!**
 
-**Warning : Multiple AI Models Were Used To Make This And Modify These**
+**Warning : Multiple AI Models Were Used To Make This And Modify This**
 
 ---
 
