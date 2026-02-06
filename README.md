@@ -3,9 +3,9 @@
 
 **A Comprehensive, Printable Reference for Understanding Git** 
 
-**Warning : Multiple AI Models Were Used To Make This And Modify These**
-
 **This Will Drive You From Complete Basics to Advanced Git Usage!**
+
+**Warning : Multiple AI Models Were Used To Make This And Modify These**
 
 ---
 
