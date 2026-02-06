@@ -1,10 +1,13 @@
 # The Complete Git Guide
 ## From Absolute Beginner to Advanced User
 
-**A Comprehensive, Printable Reference for Understanding Git**
+**A Comprehensive, Printable Reference for Understanding Git** 
+
 **This Will Drive You From Complete Basics to Advanced Git Usage!**
 
-Version 1.0 |  7th February 2026
+---
+
+Version 1.1 |  7th February 2026
 
 ---
 
